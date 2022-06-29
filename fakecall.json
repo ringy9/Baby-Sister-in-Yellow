@@ -1,0 +1,48 @@
+{
+    "data" : [
+        {
+          
+            "network": "max",
+            
+            "max_ban": "ee25c56e5e4506d6",
+            "max_int": "0f57cdea573ca5e0",
+            
+            "is_app_key": "154b0d031",
+            "is_ban": "DefaultBanner",
+            "is_int": "DefaultInterstitial",
+            
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+
+            "name": "Baby Sister Yellow",
+            "photo": "https://i.postimg.cc/vBG0Xz1Z/unnamed.jpg",
+            "voice": "https://ringy9.github.io/Baby-Sister-in-Yellow/mp3.mp4",
+            "video": "https://ringy9.github.io/Baby-Sister-in-Yellow/vidio1.mp4",
+            "stories": [
+               "https://i.postimg.cc/sgZH21ds/512x512bb.jpg",
+"https://i.postimg.cc/7YRQD0RK/60f21db91901a8321928d6bfv0mtpd-PU02.webp",
+"https://i.postimg.cc/0jQc1y0g/612709071b74123a08ade1230l-W4ym-NZ02.webp",
+"https://i.postimg.cc/LXvNW1fB/maxresdefault.jpg",
+"https://i.postimg.cc/QMQ6pPdz/maxresdefault-1.jpg",
+"https://i.postimg.cc/9f58wVCT/screen-0.webp",
+"https://i.postimg.cc/vBG0Xz1Z/unnamed.jpg",
+"https://i.postimg.cc/pXmq0ydz/unnamed.png",
+"https://i.postimg.cc/rsPgV2fD/unnamed-1.png",
+"https://i.postimg.cc/7PsKMSqq/unnamed-2.png"
+            ],
+            "wallpapers": [
+              "https://i.postimg.cc/sgZH21ds/512x512bb.jpg",
+"https://i.postimg.cc/7YRQD0RK/60f21db91901a8321928d6bfv0mtpd-PU02.webp",
+"https://i.postimg.cc/0jQc1y0g/612709071b74123a08ade1230l-W4ym-NZ02.webp",
+"https://i.postimg.cc/LXvNW1fB/maxresdefault.jpg",
+"https://i.postimg.cc/QMQ6pPdz/maxresdefault-1.jpg",
+"https://i.postimg.cc/9f58wVCT/screen-0.webp",
+"https://i.postimg.cc/vBG0Xz1Z/unnamed.jpg",
+"https://i.postimg.cc/pXmq0ydz/unnamed.png",
+"https://i.postimg.cc/rsPgV2fD/unnamed-1.png",
+"https://i.postimg.cc/7PsKMSqq/unnamed-2.png"
+            ]
+          
+        }
+    ]
+}
